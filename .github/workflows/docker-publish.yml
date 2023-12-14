@@ -33,4 +33,4 @@ jobs:
           platforms: linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64
           push: true
           tags: |
-            lockeyteam/lockey-sb-r # 改成你自己的， dockerhub用户名/镜像名
+            lockeyteam/lockey-sb-r:latest # 改成你自己的， dockerhub用户名/镜像名
