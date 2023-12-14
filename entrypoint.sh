@@ -1,4 +1,4 @@
-entrypoint.sh#!/bin/sh
+#!/bin/sh
 
 #download
 ##sing-box
